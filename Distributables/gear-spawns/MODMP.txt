@@ -1,3 +1,10 @@
 #MOUNTAIN PASS SPAWN POINTS
 
 scene=ModMountainPass_TrainShed
+item=GEAR_CrushedTomatoes p=-4.7490,2.5674,15.0533 r=270.0000,341.8475,0.0000 c=50
+item=GEAR_SoyMilk p=-4.1653,0.3820,15.2394 r=90.0000,38.3683,0.0000 c=75
+item=GEAR_RandomCannedFood p=-6.3096,1.4466,17.8078 r=-0.0000,139.6680,-0.0000 c=50
+
+scene=ModStoneHouseMP
+item=GEAR_AppleSauceJar p=-43.1972,3.0959,51.4691 r=0.3541,81.2812,357.7947 c=75
+item=GEAR_CookiesJam p=-43.6382,4.2429,49.3712 r=0.0000,294.5612,0.0000 c=45

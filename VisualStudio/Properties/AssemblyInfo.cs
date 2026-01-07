@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("RetroFood")]
 [assembly: AssemblyCopyright($"Created by Inarissa & Thekillergreece")]
 
-[assembly: AssemblyVersion("1.4")]
-[assembly: AssemblyFileVersion("1.4")]
-[assembly: MelonInfo(typeof(TKG.TKGMain), "RetroFood", "1.4", "Inarissa & Thekillergreece")]
+[assembly: AssemblyVersion("1.6")]
+[assembly: AssemblyFileVersion("1.6")]
+[assembly: MelonInfo(typeof(TKG.TKGMain), "RetroFood", "1.6", "Inarissa & Thekillergreece")]
 
 //This tells MelonLoader that the mod is only for The Long Dark.
 [assembly: MelonGame("Hinterland", "TheLongDark")]

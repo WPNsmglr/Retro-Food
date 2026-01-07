@@ -21,6 +21,6 @@
                                 "InspectModel" : "",
                                 
                                 "ItemNames" : ["GEAR_BabyFoodBanana","GEAR_BabyFoodBerries","GEAR_BabyFoodCarrot","GEAR_BabyFoodPeas"],
-                                "ItemWeights" : [3,3,3,3,]
+                                "ItemWeights" : [3,3,3,3]
                             }
 }

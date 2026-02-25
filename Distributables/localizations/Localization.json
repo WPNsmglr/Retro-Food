@@ -6,7 +6,7 @@
 		"Italian": "Lattina di Fagioli al Forno",
 		"German": "Dose gebackene Bohnen",
 		"Japanese": "ベイクドビーンズの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "焗豆罐頭",
     },
     "GAMEPLAY_BakedBeansDescription": {
         "English": "Can of Baked Beans. Nothing special. Good for beans on toast, if you´re into that.",
@@ -15,7 +15,7 @@
 		"Italian": "Una lattina di Fagioli al Forno. Niente di speciale. Buono per una fetta di pane tostato con i fagioli, se ti piace.",
 		"German": "Eine Dose gebackene Bohnen. Nichts besonderes. Gut für Bohnen auf Toast, wenn du das magst.",
 		"Japanese": "ごくありふれたベイクドビーンズの缶詰。ビーンズ・オン・トーストがお好きならどうぞ。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "一罐焗豆。沒什麼特別的。不過如果你喜歡豆子吐司的話，這倒是絕配。",
     },
     "GAMEPLAY_GroundBeef": {
         "English": "Can of Ground Beef",
@@ -24,7 +24,7 @@
 		"Italian": "Lattina di Carne di Manzo Macinata",
 		"German" : "Dose Hackfleisch",
 		"Japanese": "牛挽肉の缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "牛絞肉罐頭",
     },
     "GAMEPLAY_GroundBeefDescription": {
         "English": "What do you call a cow with no legs? Ground beef!",
@@ -33,7 +33,7 @@
 		"Italian": "Come chiami una mucca senza le gambe? Carne di Manzo Macinata!",
 		"German":  "Wie nennt man eine Kuh ohne Beine? Hackfleisch!",
 		"Japanese": "足のない牛を何と呼ぶかって？ 挽いた牛肉(Ground beef)さ！\n\n（訳注：地上を意味するgroundと挽いたを意味するgroundを掛けている）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "沒有腳的牛叫什麼？叫「Ground beef」！\n\n（註：Ground Beef 兼具「絞肉」與「地上的牛」之雙關語意）。",
     },
     "GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
@@ -42,7 +42,7 @@
 		"Italian": "Lattina di Pomodori Schiacciati",
 		"German": "Dose zerkleinerte Tomaten",
 		"Japanese": "クラッシュトマトの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "番茄罐頭",
     },
     "GAMEPLAY_CrushedTomatoesDescription": {
         "English": "Boring. Needs spices and some protein.",
@@ -51,7 +51,7 @@
 		"Italian": "Noioso. Servono spezie e qualche proteina.",
 		"German":  "Langweilig. Benötigt Gewürze und ein bisschen Proteine.",
 		"Japanese": "物足りない。香辛料とタンパク質が必要だ。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "味道平淡。或許加點香料和蛋白質會更好。",
     },
     "GAMEPLAY_SwedishMeatballs": {
         "English": "Can of Swedish Meatballs",
@@ -60,7 +60,7 @@
 		"Italian": "Lattina di Polpette Svedesi",
 		"German":  "Dose schwedische Fleischbällchen",
 		"Japanese": "スウェーデン風ミートボールの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "瑞典肉丸罐頭",
     },
     "GAMEPLAY_SwedishMeatballsDescription": {
         "English": "Traditional Swedish Meatballs!",
@@ -69,7 +69,7 @@
 		"Italian": "Polpette Svedesi Tradizionali!",
 		"German":  "Traditionelle schwedische Fleischbällchen",
 		"Japanese": "伝統的なスウェーデン風ミートボールだよ！"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "正宗的瑞典肉丸！",
     },
     "GAMEPLAY_ChickenMeatballs": {
         "English": "Can of Chicken Meatballs",
@@ -78,7 +78,7 @@
 		"Italian": "Lattina di Polpette di Pollo",
 		"German":  "Dose Hühnchenfleischbällchen",
 		"Japanese": "チキンミートボールの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "雞肉肉丸罐頭",
     },
     "GAMEPLAY_ChickenMeatballsDescription": {
         "English": "The less-traditional version of Swedish meatballs.",
@@ -87,7 +87,7 @@
 		"Italian": "La versione meno tradizionale delle polpette svedesi.",
 		"German":  "Die weniger traditionelle Version von schwedischen Fleischbällchen",
 		"Japanese": "伝統的ではないスウェーデン風ミートボールだ。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "「沒那麼正宗」的瑞典肉丸。",
     },
     "GAMEPLAY_AppleSnacks": {
         "English": "Box of Apple Snacks",

@@ -303,7 +303,7 @@
 		"Italian": "Fette di ananas dolci. Perfette sulla pizza!",
 		"German": "Süße Ananasscheiben. Perfekt auf Pizza!",
 		"Japanese": "甘い薄切りパイナップル。ピザにぴったりだ！"
-		"Traditional Chinese": "香甜的鳳梨切片。放在披薩上簡直完美！\n\n\n",
+		"Traditional Chinese": "香甜的鳳梨切片。放在披薩上簡直完美！\n\n\n*憤怒的義大利噪音*",
     },
     "GAMEPLAY_CheeseDoodles": {
         "English": "Bag of Cheese Doodles",
@@ -312,7 +312,7 @@
 		"Italian": "Sacchetto di Scarabocchi di Formaggio",
 		"German":  "Tüte Cheez Doodles",
 		"Japanese": "チーズドゥードゥルの袋"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "起司球",
     },
     "GAMEPLAY_CheeseDoodlesDescription": {
         "English": "Cheesy goodness. Will coat your fingers in orange cheese-dust.",
@@ -321,7 +321,7 @@
 		"Italian": "Bontà formaggiosa. Ricoprirà le tue dita in una polvere formaggiosa arancione.",
 		"German":  "Käsige Göttlichkeit. Überzieht deine Finger mit orangenem Käsestaub.",
 		"Japanese": "チーズなおいしさ。指がオレンジ色のチーズの粉まみれになる。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "美味的起司精華，會讓你的手指沾滿橘色的起司粉。",
     },
     "GAMEPLAY_BabyFoodBanana": {
         "English": "Jar of babyfood",
@@ -330,7 +330,7 @@
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
 		"Japanese": "ベビーフードの瓶（バナナ）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "嬰兒副食品（香蕉）",
     },
     "GAMEPLAY_BabyFoodBananaDescription": {
         "English": "Pretty much just mashed bananas. Sweet and tasty.",
@@ -339,7 +339,7 @@
 		"Italian": "Praticamente solo un purè di banane. Dolci e gustosi.",
 		"German": "Eigentlich nur zerdrückte Bananen. Süß und lecker.",
 		"Japanese": "バナナをつぶしただけのもの。甘くておいしい。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "基本上就是香蕉泥，香甜可口。",
     },
     "GAMEPLAY_BabyFoodCarrot": {
         "English": "Jar of babyfood",
@@ -348,7 +348,7 @@
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
 		"Japanese": "ベビーフードの瓶（ニンジン）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "嬰兒副食品（胡蘿蔔）",
     },
     "GAMEPLAY_BabyFoodCarrotDescription": {
         "English": "The sadder version of babyfood, just vegetables. Healthy, but thats about it.",
@@ -357,7 +357,7 @@
 		"Italian": "La versione più triste del cibo per bambini, solo verdura. Sano, ma questo è tutto.",
 		"German": "Die traurigere Version von Babynahrung, nur Gemüse. Gesund, aber das ist es auch schon.",
 		"Japanese": "ほぼ野菜だけながっかりベビーフード。ヘルシーだが、ただそれだけだ。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "比較「令人沮喪」版的嬰兒副食品。只有蔬菜，很健康，但也僅此而已。",
     },
     "GAMEPLAY_BabyFoodBerries": {
         "English": "Jar of babyfood",
@@ -366,7 +366,7 @@
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
 		"Japanese": "ベビーフードの瓶（ベリー）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "嬰兒副食品（莓果）",
     },
     "GAMEPLAY_BabyFoodBerriesDescription": {
         "English": "Mashed berries, a nice dessert in a pinch.",
@@ -375,7 +375,7 @@
 		"Italian": "Purè di bacche, un buon dessert in caso di necessità.",
 		"German": "Beerenpüree, zur Not ein schönes Dessert.",
 		"Japanese": "ベリーをつぶしたもの、いざという時のデザートにいい。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "搗碎的莓果，在關鍵時刻是不錯的甜點。",
     },
     "GAMEPLAY_BabyFoodPeas": {
         "English": "Jar of babyfood",
@@ -384,7 +384,7 @@
 		"Italian": "Barattolo di Cibo per Bambini",
 		"German":  "Glas Babynahrung",
 		"Japanese": "ベビーフードの瓶（豆）"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "嬰兒副食品（豌豆）",
     },
     "GAMEPLAY_BabyFoodPeasDescription": {
         "English": "Mushy peas. Not the nicest texture, but pairs surprisingly well with some fish.",
@@ -393,7 +393,7 @@
 		"Italian": "Purè di piselli. Non ha una buona consistenza, ma si abbina sorprendentemente bene con un po' di pesce.",
 		"German": "Erbsenpüree. Nicht die schönste Konsistenz, passt aber überraschend gut zu etwas Fisch.",
 		"Japanese": "つぶした豆。食感は良くないが、魚料理に意外と合う。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "豌豆泥。雖然口感不是很好，但意外地跟魚肉很搭。",
     },
     "GAMEPLAY_SoyMilk": {
         "English": "Soy Milk",
@@ -402,7 +402,7 @@
 		"Italian": "Latte di Soia",
 		"German":  "Soja-Milch",
 		"Japanese": "豆乳"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "豆奶",
     },
     "GAMEPLAY_SoyMilkDescription": {
         "English": "Works pretty much the same as milk, but is storeable for much longer.",
@@ -411,7 +411,7 @@
 		"Italian": "Funziona praticamente come il latte, ma si conserva più a lungo.",
 		"German": "Funktioniert fast genauso wie Milch, ist aber viel länger haltbar.",
 		"Japanese": "牛乳とほとんど同じものだが、ずっと長く保存できる。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "用途與牛奶差不多，但保存期限長得多。",
     },
     "GAMEPLAY_CookiesJam": {
         "English": "Jam Drop Cookies",
@@ -420,7 +420,7 @@
 		"Italian": "Biscotti Jam Drop",
 		"German":  "Marmeladenkeks",
 		"Japanese": "ジャムドロップクッキー"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "果醬曲奇餅乾",
     },
     "GAMEPLAY_CookiesJamDescription": {
         "English": "A swedish traditional cookie. Often made with raspberry jam.",
@@ -429,7 +429,7 @@
 		"Italian": "Biscotti tradizionali della Svezia. Di solito fatte con la marmellata di lampone.",
 		"German": "Ein traditioneller schwedischer Keks. Oft mit Himbeermarmelade zubereitet.",
 		"Japanese": "スウェーデンの伝統的な菓子。ラズベリージャムを使って作ることが多い"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "一種瑞典傳統餅乾，通常使用覆盆子果醬製作。",
     },
     "GAMEPLAY_MixedNuts": {
         "English": "Bag of mixed nuts",
@@ -438,7 +438,7 @@
 		"Italian": "Sacchetto di noci miste",
 		"German":  "Tüte gemischte Nüsse",
 		"Japanese": "ミックスナッツの袋"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "綜合堅果",
     },
     "GAMEPLAY_MixedNutsDescription": {
         "English": "A good source of energy!",
@@ -447,7 +447,7 @@
 		"Italian": "Una buona fonte di energia!",
 		"German":  "Eine gute Energiequelle",
 		"Japanese": "良い活力の源だ！"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "優質的能量來源！",
     },
     "GAMEPLAY_TrailMix": {
         "English": "Bag of trail mix",
@@ -456,7 +456,7 @@
 		"Italian": "Sacchetto di trail mix",
 		"German":  "Tüte Studentenfutter",
 		"Japanese": "トレイルミックスの袋"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "綜合點心",
     },
     "GAMEPLAY_TrailMixDescription": {
         "English": "Perfect for hikes. A good energy boost!",
@@ -465,6 +465,6 @@
 		"Italian": "Perfetto per le escursioni. Una buona carica d'energia!",
 		"German": "Perfekt für Wanderungen. Ein guter Energieschub!",
 		"Japanese": "ハイキングに最適。良いエネルギー補給になるよ！"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "登山遠足的完美補給選擇，能有效補充體能！",
     }
 }

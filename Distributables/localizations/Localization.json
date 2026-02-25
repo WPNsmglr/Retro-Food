@@ -33,7 +33,7 @@
 		"Italian": "Come chiami una mucca senza le gambe? Carne di Manzo Macinata!",
 		"German":  "Wie nennt man eine Kuh ohne Beine? Hackfleisch!",
 		"Japanese": "足のない牛を何と呼ぶかって？ 挽いた牛肉(Ground beef)さ！\n\n（訳注：地上を意味するgroundと挽いたを意味するgroundを掛けている）"
-		"Traditional Chinese": "沒有腳的牛叫什麼？叫「Ground beef」！\n\n（註：Ground Beef 兼具「絞肉」與「地上的牛」之雙關語意）。",
+		"Traditional Chinese": "一隻牛沒了腿叫什麼？在地美食！\n\n（原文：What do you call a cow with no legs? Ground beef!）",
     },
     "GAMEPLAY_CrushedTomatoes": {
         "English": "Can of Crushed Tomatoes",
@@ -96,7 +96,7 @@
 		"Italian": "Scatola di Spuntini alla Mela",
 		"German":  "Schachtel Apfelsnack",
 		"Japanese": "アップルスナックの箱"
-		"Traditional Chinese": "一盒蘋果乾點心",
+		"Traditional Chinese": "蘋果乾點心",
     },
     "GAMEPLAY_AppleSnacksDescription": {
         "English": "Dried, sweet pieces of apple. Yum!",
@@ -114,7 +114,7 @@
 		"Italian": "Scatola di Mac & Formaggio",
 		"German":  "Schachtel Makkaroni mit Käse",
 		"Japanese" : "チーズマカロニの箱"
-		"Traditional Chinese": "一盒起司通心粉",
+		"Traditional Chinese": "起司通心粉",
     },
     "GAMEPLAY_MacCheeseDescription": {
         "English": "One of the best combinations, maybe ever.",
@@ -150,7 +150,7 @@
 		"Italian": "Scatola di Pasta",
 		"German":  "Schachtel Nudeln",
 		"Japanese": "パスタの箱"
-		"Traditional Chinese": "一盒義大利麵",
+		"Traditional Chinese": "義大利麵",
     },
     "GAMEPLAY_PremiumPastaDescription": {
         "English": "Dried pasta, a good household staple.",
@@ -195,7 +195,7 @@
 		"Italian": "Piccole e dolci.",
 		"German":  "Klein und süß.",
 		"Japanese": "小粒で甘い。"
-		"Traditional Chinese": "小巧且香甜。",
+		"Traditional Chinese": "小而甜。",
     },
     "GAMEPLAY_MashedPotatoes": {
         "English": "Mashed Potatoes",
@@ -204,7 +204,7 @@
 		"Italian": "Purè di Patate",
 		"German": "Kartoffelpüree",
 		"Japanese": "マッシュポテト"
-		"Traditional Chinese": "一盒馬鈴薯泥",
+		"Traditional Chinese": "馬鈴薯泥",
     },
     "GAMEPLAY_MashedPotatoesDescription": {
         "English": "Powdered Mashed Potatoes, add water to make it edible.",
@@ -231,7 +231,7 @@
 		"Italian": "Morbido, cremoso e delizioso. Mangialo mentre è caldo!",
 		"German":  "Weich, cremig und lecker. Iss es, so lange es heiß ist.",
 		"Japanese": "柔らかくてクリーミー、そして美味しい。熱いうちに召し上がれ！"
-		"Traditional Chinese": "質地鬆軟、香濃且美味。趁熱吃吧！",
+		"Traditional Chinese": "質地鬆軟、味道濃郁且美味。快趁熱吃吧！",
     },
     "GAMEPLAY_AppleSauceJar": {
         "English": "Apple Sauce",
@@ -267,7 +267,7 @@
 		"Italian": "Biscotti semplici con un leggero sapore di arancia.",
 		"German":  "Einfache Kekse mit einem Hauch von Orangenaroma",
 		"Japanese": "ほのかなオレンジ風味のシンプルなビスケット。"
-		"Traditional Chinese": "帶有淡淡橘子香氣的簡單餅乾。",
+		"Traditional Chinese": "帶有淡淡橘子香氣的小餅乾。",
     },
     "GAMEPLAY_Sausages": {
         "English": "Can of Sausages",
@@ -276,7 +276,7 @@
 		"Italian": "Lattina di Salsicce",
 		"German":  "Dose Würstchen",
 		"Japanese": "ソーセージの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "香腸罐頭",
     },
     "GAMEPLAY_SausagesDescription": {
         "English": "Cold sausages in a can. You should probably heat these up.",
@@ -285,7 +285,7 @@
 		"Italian": "Fredde salsicce in una lattina. Probabilmente dovresti riscaldarle.",
 		"German":  "Kalte Würstchen in einer Dose. Vielleicht solltest du sie aufwärmen.",
 		"Japanese": "缶入りの冷たいソーセージ。君はおそらくこれを温めるだろう。"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "冷的罐裝香腸。或許該把它們加熱後再食用會更好些。",
     },
     "GAMEPLAY_Pineapples": {
         "English": "Can of Sliced Pineapple",
@@ -294,7 +294,7 @@
 		"Italian": "Lattina di Ananas Affettato",
 		"German":  "Dose Ananasscheiben",
 		"Japanese": "スライスパイナップルの缶詰"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "鳳梨切片罐頭",
     },
     "GAMEPLAY_PineapplesDescription": {
         "English": "Sweet slices of pineapple. Perfect on pizza!",
@@ -303,7 +303,7 @@
 		"Italian": "Fette di ananas dolci. Perfette sulla pizza!",
 		"German": "Süße Ananasscheiben. Perfekt auf Pizza!",
 		"Japanese": "甘い薄切りパイナップル。ピザにぴったりだ！"
-		"Traditional Chinese": "",
+		"Traditional Chinese": "香甜的鳳梨切片。放在披薩上簡直完美！\n\n\n",
     },
     "GAMEPLAY_CheeseDoodles": {
         "English": "Bag of Cheese Doodles",
